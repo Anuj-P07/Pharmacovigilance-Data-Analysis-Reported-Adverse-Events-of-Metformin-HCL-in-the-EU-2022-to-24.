@@ -1,3 +1,3 @@
 <div>
-<img src="MetforminHCl_ae_Report.png" height="200">
+<img src="MetforminHCL_AE_Report.png" height="200">
 </div>
